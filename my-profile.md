@@ -10,4 +10,9 @@
 座右銘：*間接性崩潰，習慣性自愈*
 
 [alien stage](https://x.com/Official_ALNST)
-![](alien.jpg)
+![alien](alien.jpg)
+
+```喜歡的話:```
+
+|任務名稱|狀態|負責人|截止日期|
+|---|---|---|---|
