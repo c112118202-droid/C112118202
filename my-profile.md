@@ -11,4 +11,4 @@
 
 [alien stage](https://x.com/Official_ALNST)
 
-! [alien stage](alien stage.jpg)
+![alien stage](alien stage.jpg)
