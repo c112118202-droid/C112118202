@@ -10,4 +10,5 @@
 座右銘：*間接性崩潰，習慣性自愈*
 
 [alien stage](https://x.com/Official_ALNST)
-![alien stage](alien stage.jpg)
+
+! [alien stage](alien stage.jpg)
