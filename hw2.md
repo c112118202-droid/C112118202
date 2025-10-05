@@ -21,8 +21,8 @@ graph TD
     J --> K
     
     class A,B,C,D,E,F,I,K critical
-    classDef critical fill:#ff9999,stroke:#ff0000,stroke-width:3px;
-    classDef normal fill:#e1e1e1,stroke:#333,stroke-width:2px;
+    classDef critical fill:#ff6666,stroke:#cc0000,stroke-width:3px,color:#ffffff;
+    classDef normal fill:#f0f0f0,stroke:#333,stroke-width:2px,color:#000000;
 ```
 ## 2.甘特圖
 ```mermaid
