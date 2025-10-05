@@ -1,10 +1,10 @@
-1. PERT / CPM 任務關係圖  
-2. 甘特圖 (Gantt Chart)  
-3. 關鍵路徑（Critical Path）以紅色顯示  
+1. PERT / CPM 圖  
+2. 甘特圖
+3. 關鍵路徑  
 
 ---
 
-## 1.PERT / CPM 任務圖
+## 1.PERT / CPM 圖
 ```mermaid
 graph TD
     A[1. 研擬計畫<br/>1天] --> B[2. 任務分配<br/>4天]
