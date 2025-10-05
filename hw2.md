@@ -68,6 +68,6 @@ graph LR
     I --> K[11. 使用者測試<br/>第131-155天]:::critical
     J --> K
     
-    classDef critical fill:#ffcccc,stroke:#ff0000,stroke-width:3px;
-    classDef normal fill:#e1e1e1,stroke:#333,stroke-width:2px;
+    classDef critical fill:#e74c3c,stroke:#c0392b,stroke-width:3px,color:#ffffff;
+    classDef normal fill:#ecf0f1,stroke:#bdc3c7,stroke-width:2px,color:#2c3e50;
 ```
